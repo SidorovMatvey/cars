@@ -1,0 +1,30 @@
+img{
+    /* ширина картинок */
+    width:100%
+}
+#ferrari{
+    color: darkorange;
+}
+#lamborghini{
+    color: darkviolet;
+}
+#f{
+    filter: hue-rotate(0deg)
+}
+#Mclaren{
+    color: lime;
+}
+ .blue{
+    color: blue;
+ }
+ #r{
+    filter: hue-rotate(134deg);
+ }
+ #p{
+    width:80% ;
+ }
+ #P {
+    width: 60%;
+ }
+
+
